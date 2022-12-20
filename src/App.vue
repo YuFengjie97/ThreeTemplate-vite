@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import Atom from './Atom.vue'
+import PixelPicture from './views/PixelPicture.vue';
 </script>
 
 <template>
-<Atom/>
+<PixelPicture/>
 </template>
 <style scoped></style>
